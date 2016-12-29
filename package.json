@@ -1,0 +1,16 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello-world.js",
+    "mycommand": "echo 'hello-world'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "builtin-modules": "^1.0.0"
+  }
+}
